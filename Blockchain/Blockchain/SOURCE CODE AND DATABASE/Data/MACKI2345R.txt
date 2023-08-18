@@ -1,0 +1,38 @@
+<-------- PERSONAL DETAILS ------------------------>
+
+NAME        : mav ra
+EMAIL ID    : ravichandiran.shiash@gmail.com
+PAN ID      :  MACKI2345R
+AADHAR ID   : 654879132003
+DATE OF BIRTH  : Tue Jun 07 12:40:59 IST 2022
+
+<-------- POST GRADUATE DETAILS ----------------->
+
+COLLEGE NAME      : 
+DEGREE AND BRANCH :  ( )
+PASSED YEAR       : ,     PERCENNTAGE :  %
+
+<-------- UNDER GRADUATE DETAILS ---------------->
+
+COLLEGE NAME      : dsaf
+DEGREE AND BRANCH : Bachelor of Arts (sadf) 
+PASSED YEAR       : 2014,     PERCENNTAGE : 81 %
+
+<-------- HSC DETAILS ------------------------------->
+
+SCHOOL    : sdrggv
+PASSED ON : 2011 PERCENTAGE : 87 %
+
+<-------- SSLC DETAILS ------------------------------->
+
+SCHOOL    : gr
+PASSED ON : 2009 PERCENTAGE : 87 %
+
+<-------- EXPERIENCE --------------------------------->
+
+ORGANIZATION DETAILS > 
+WORKED ON :  FRESHER :>
+
+-------------------------------------------------------
+DETAILS SUBMITTED DATE : 07-06-2022
+-------------------------------------------------------

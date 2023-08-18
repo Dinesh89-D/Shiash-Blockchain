@@ -1,0 +1,38 @@
+<-------- PERSONAL DETAILS ------------------------>
+
+NAME        : sri ram
+EMAIL ID    : sri815143@gmail.com
+PAN ID      :  KHJFR2345E
+AADHAR ID   : 123456789012
+DATE OF BIRTH  : Mon Feb 13 17:54:49 IST 2023
+
+<-------- POST GRADUATE DETAILS ----------------->
+
+COLLEGE NAME      : 
+DEGREE AND BRANCH :  ( )
+PASSED YEAR       : ,     PERCENNTAGE :  %
+
+<-------- UNDER GRADUATE DETAILS ---------------->
+
+COLLEGE NAME      : aaa college
+DEGREE AND BRANCH : Bachelor of Engg./Tech (cse) 
+PASSED YEAR       : 2017,     PERCENNTAGE : 77 %
+
+<-------- HSC DETAILS ------------------------------->
+
+SCHOOL    : dsds
+PASSED ON : 2012 PERCENTAGE : 68 %
+
+<-------- SSLC DETAILS ------------------------------->
+
+SCHOOL    : dsfsd
+PASSED ON : 2010 PERCENTAGE : 80 %
+
+<-------- EXPERIENCE --------------------------------->
+
+ORGANIZATION DETAILS > 
+WORKED ON :  FRESHER :>
+
+-------------------------------------------------------
+DETAILS SUBMITTED DATE : 14-02-2023
+-------------------------------------------------------

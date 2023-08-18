@@ -1,0 +1,38 @@
+<-------- PERSONAL DETAILS ------------------------>
+
+NAME        : rav asdf
+EMAIL ID    : rravichandiran.surya@gmail.com
+PAN ID      :  WERTT7452R
+AADHAR ID   : 456746786786
+DATE OF BIRTH  : Tue Jun 07 11:51:15 IST 2022
+
+<-------- POST GRADUATE DETAILS ----------------->
+
+COLLEGE NAME      : 
+DEGREE AND BRANCH :  ( )
+PASSED YEAR       : ,     PERCENNTAGE :  %
+
+<-------- UNDER GRADUATE DETAILS ---------------->
+
+COLLEGE NAME      : dfaggfgg
+DEGREE AND BRANCH : Bachelor of Arts (gdsfg) 
+PASSED YEAR       : 2019,     PERCENNTAGE : 78 %
+
+<-------- HSC DETAILS ------------------------------->
+
+SCHOOL    : d fgsbyu
+PASSED ON : 2013 PERCENTAGE : 59 %
+
+<-------- SSLC DETAILS ------------------------------->
+
+SCHOOL    : sreyhbe j
+PASSED ON : 2011 PERCENTAGE : 75 %
+
+<-------- EXPERIENCE --------------------------------->
+
+ORGANIZATION DETAILS > 
+WORKED ON :  FRESHER :>
+
+-------------------------------------------------------
+DETAILS SUBMITTED DATE : 07-06-2022
+-------------------------------------------------------

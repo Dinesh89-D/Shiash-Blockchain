@@ -1,0 +1,16 @@
+<-------- PERSONAL DETAILS ------------------------->
+
+NAME        : sri ram
+EMAIL ID    : sri815143@gmail.com
+PAN ID      :  KHJFR2345E
+AADHAR ID   : 123456789012
+DATE OF BIRTH  : Mon Feb 13 17:54:49 IST 2023
+
+<-------- EXPERIENCE -------------------------------->
+
+ORGANIZATION DETAILS > 
+WORKED ON : worked on abc :>
+
+-----------------------------------------------------
+DETAILS SUBMITTED DATE : 14-02-2023
+-----------------------------------------------------
